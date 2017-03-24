@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> <manifest> <project 
+name="georgemath24/aoscp_device_oneplus_onyx" path="device/oneplus/onyx" 
+revision="n7.1" remote="github" /> <project 
+name="BirdSanctuary/device_oppo_common" path="device/oppo/common" 
+remote="github" revision="n7" /> <project 
+name="BigTopKrazies/vendor_oneplus" path="vendor/oneplus" remote="github" 
+revision="n7.1" /> <project 
+name="BigTopKrazies/proprietary_vendor_qcom_binaries" 
+path="vendor/qcom/binaries" remote="github" revision="n7.1" /> <project 
+name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" 
+remote="github" revision="stable" />   <project 
+name="LineageOS/android_external_sony_boringssl-compat" 
+path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" /> 
+� <project name="LineageOS/android_packages_resources_devicesettings" 
+path="packages/resources/devicesettings" remote="github" revision="cm-14.1" 
+/>
+</manifest>
