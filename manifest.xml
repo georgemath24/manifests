@@ -8,10 +8,10 @@ revision="n7.1" /> <project
 name="BigTopKrazies/proprietary_vendor_qcom_binaries" 
 path="vendor/qcom/binaries" remote="github" revision="n7.1" /> <project 
 name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" 
-remote="github" revision="stable" />   <project 
+remote="github" revision="stable" /> Â Â <project 
 name="LineageOS/android_external_sony_boringssl-compat" 
 path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" /> 
-� <project name="LineageOS/android_packages_resources_devicesettings" 
+<project name="LineageOS/android_packages_resources_devicesettings" 
 path="packages/resources/devicesettings" remote="github" revision="cm-14.1" 
 />
 </manifest>
